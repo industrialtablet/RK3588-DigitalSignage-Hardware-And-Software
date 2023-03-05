@@ -1,4 +1,4 @@
-# RK3588-DigitalSignage-Hardware
+# RK3588-DigitalSignage-Hardware-And-Software
 This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # RK3588 DigitalSignage Mainboard (SBC)
